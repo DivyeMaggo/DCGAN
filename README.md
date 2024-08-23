@@ -27,4 +27,8 @@ Best output, along with generator and discriminator loss:
 
 ![image](https://github.com/user-attachments/assets/06011fa5-5901-440d-850c-69f3049eacad)
 ![image](https://github.com/user-attachments/assets/2f2a86be-65e8-494c-9dfe-660e4c5e764a)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/65416ff3-9194-4c13-b2a8-1e8ad1d25ac8)
